@@ -5,10 +5,12 @@
 </head>
 <body>
 
+<!-- <p>managing merge conflict</p> --> 
+
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 
-<!-- <p>here is a comment merge by Dev kesse for branch 1 alias b1 </p> -->
+<!-- <p>here is a comment merge by Dev 1 kesse for branch 1 alias b1 </p> -->
 
 </body>
 </html> 
